@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dhaksinyaa-Subramaniam
-- 👀 Interested in data analytics
-- 🌱 MS in Management Information System 
-- 💞️ I’m looking for full time data analyst and business analyst roles
-- 📫 How to reach me : mailid: iamdhaksu@gmail.com
+- 👀 Area of Interest: Data Analytics
+- 🌱 MS in Management Information System from University at Buffalo School of Management
+- 💞️ Transforming data into strategic business solutions
+- 📫 How to reach me: iamdhaksu@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Looking out for glimmers in each passing day of life with collecting memories as data to store in the database of life 
 
